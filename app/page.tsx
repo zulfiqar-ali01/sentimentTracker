@@ -15,8 +15,10 @@ export default function Dashboard() {
   return (
     <div className="flex min-h-screen w-full flex-col">
       <header className="sticky top-0 z-10 border-b bg-background/95 backdrop-blur">
-        <div className="container flex h-16 items-center justify-between py-4">
-          <h1 className="text-xl font-bold">Pakistan Social Media Sentiment Tracker - 9th May 2023</h1>
+        <div className="container flex h-16 py-4 justify-center items-center">
+          <h1 className="text-xl font-extrabold uppercase text-center bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
+        Pakistan Social Media Sentiment Tracker - 9th May 2023
+          </h1>
         </div>
       </header>
 

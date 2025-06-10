@@ -7,7 +7,7 @@
 /.next/
 /out/
 
-app/page.tsx
+app/
 
 # production
 /build
